@@ -1,0 +1,82 @@
+.A {
+  margin-top: 50px;
+}
+
+.left {
+  margin-top: 70px;
+}
+
+.card-body h5 {
+  font-family: sans-serif;
+  color: grey;
+  font-size: 20px;
+  margin-top: -15px;
+}
+
+.form-row p {
+  display: flex;
+  font-family: sans-serif;
+  color: grey;
+  margin-top: -8px;
+  justify-content: center;
+}
+
+.form-row div {
+  display: flex;
+  height: 5px;
+  justify-content: center;
+}
+
+.form-group h6 {
+  font-family: sans-serif;
+  color: grey;
+  margin-top: 20px;
+}
+
+h6 a {
+  text-decoration: none;
+  color: grey;
+  font-weight: bold;
+}
+
+h6 a:hover {
+  text-decoration: none;
+  color: grey;
+}
+
+.login {
+  margin-top: 10px;
+}
+
+.login a:hover {
+  text-decoration: none;
+}
+
+.C {
+  display: flex;
+  justify-content: center;
+}
+
+.C h6 {
+  margin-top: 20px;
+}
+
+.D {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.footer {
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-between;
+  text-transform: uppercase;
+  margin-right: 200px;
+  font-family: sans-serif;
+  font-size: 15px;
+}
+
+.footer a:hover {
+  text-decoration: none;
+}

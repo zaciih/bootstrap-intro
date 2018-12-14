@@ -1,0 +1,42 @@
+.navbar-brand img {
+  border-radius: 5px 5px 5px 5px;
+}
+
+.navbar input:focus{
+  background-color: forestgreen;
+  opacity: 0.99;
+}
+
+.jumbotron a {
+  background-color: forestgreen;
+  border: none;
+  text-decoration: none;
+}
+
+.jumbotron a:hover {
+  background-color: lightgreen;
+}
+
+/* .jumbotron a:active {
+  background-color: green;
+  border-color: green;
+} */
+
+.container .container {
+  display: flex;
+  justify-content: center;
+}
+
+.container .container a {
+  background-color: forestgreen;
+  border: none;
+  text-decoration: none;
+}
+
+.container .container a:hover {
+  background-color: lightgreen;
+}
+
+.container .container {
+  padding-top: 50px;
+}
